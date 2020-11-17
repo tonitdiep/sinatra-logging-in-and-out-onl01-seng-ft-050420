@@ -10,3 +10,4 @@ class Helpers
 			!!session[:user_id]
 		end
 end
+
